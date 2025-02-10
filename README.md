@@ -10,26 +10,27 @@
   Branding & Visual Identity
     
   Software Development:
-  HTML, CSS, JavaScript, Java, Sql, Database, Kotlin, Azure DeveOps, Git & GitHub for version control, MS Word
+  HTML, CSS, JavaScript, Java, React, Management Database: SQL & MySQL, Kotlin, Microsoft Azure DeveOps, Git & GitHub for version control, MS Office
     
       Operating Systems:
       Microsoft Windows & MacOS
 
-- 👀 I’m interested in learning other sofware development languages and more UX/UI.
+- 👀 I’m interested in learning other sofware development languages, more UX/UI and other IT fields such as Cyber Security, Network Infrastructure, etc.
   
-- 🌱 I’m currently learning Python and React.
+- 🌱 I’m currently learning Python
   
 - 💞️ I’m looking to collaborate on small and major projects that will allow me to showcase my skills and
       learn more from other who have been in the software development industry for long.
   
 - 📫 How to reach me:
-  Call: 0798492219
   Email: jullietrakuba@gmail.com
   LinkedIn: https://za.linkedin.com/in/julliet-rakuba-a72b36166 
   
 - 😄 Pronouns: she/her/them
   
-- ⚡ Fun fact: I'm creative! I can draw! I like sports such as soccer, tennies, basketball. 
+- ⚡ Fun fact: I'm creative! I can hand-draw and computer-illustration, paint, clay sculpting!
+     -  I like playing sports such as soccer, tennies & basketball.
+     -  My favourite board game is CHESS! CHECKMATE! 👸
 
 <!---
 JKRakuba/JKRakuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
